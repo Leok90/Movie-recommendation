@@ -8,7 +8,7 @@
 
 ### 관객수 기준으로 영화 추천 받기
 
-![](.\img\1.JPG)
+![](./img/1.JPG)
 
 
 
@@ -16,7 +16,7 @@
 
 ##키보드 좌우상하 방향키를 입력받아서 별점이 변화하는 알고리즘 구현
 
-![](.\img\2.JPG)
+![](./img/2.JPG)
 
 ```python
 def rate_movie(self, movie_data, movie):    # 영화에 별점을 부여하는 함수
@@ -52,4 +52,4 @@ def rate_movie(self, movie_data, movie):    # 영화에 별점을 부여하는 �
 
 ### 기존 DB에 새로운 영화 데이터 추가하기
 
-![](.\img\3.JPG)
+![](./img/3.JPG)
